@@ -1,5 +1,5 @@
 ﻿WpfNumerosPrimosM1
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\1\OneDrive\Documentos\GitHub\WPF Exercises\01\WpfNumerosPrimosM1\App.xaml
 2-644822502
 
-71263751224
+5-1445137779
 194-1325968647
 MainWindow.xaml;NumeroPrimo.xaml;
 
-True
+False
 
