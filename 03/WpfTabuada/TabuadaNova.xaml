@@ -1,0 +1,30 @@
+﻿<Window x:Class="WpfTabuada.TabuadaNova"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfTabuada"
+        mc:Ignorable="d"
+        Title="Tabuada" Height="320" Width="320">
+    <Grid>
+        <ComboBox x:Name="cbNumero" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top" Width="283" SelectedIndex="0" SelectionChanged="cbNumero_SelectionChanged">
+            <ComboBoxItem Content="1" Name="Um"/>
+            <ComboBoxItem Content="2" Name="Dois"/>
+            <ComboBoxItem Content="3" Name="Tres"/>
+            <ComboBoxItem Content="4" Name="Quatro"/>
+            <ComboBoxItem Content="5" Name="Cinco"/>
+            <ComboBoxItem Content="6" Name="Seis"/>
+            <ComboBoxItem Content="7" Name="Sete"/>
+            <ComboBoxItem Content="8" Name="Oito"/>
+            <ComboBoxItem Content="9" Name="Nove"/>
+            <ComboBoxItem Content="10" Name="Dez"/>
+            <ComboBoxItem Content="11" Name="Onze"/>
+            <ComboBoxItem Content="12" Name="Doze"/>
+            <Button Content="Button"/>
+        </ComboBox>
+        <Label Content="Informe o numero que deseja calcular a tabuada" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <ListBox x:Name="lbResposta" HorizontalAlignment="Left" Height="151" Margin="10,74,0,0" VerticalAlignment="Top" Width="283"/>
+        <Button x:Name="btExecutar" Content="Executar" HorizontalAlignment="Left" Margin="10,241,0,0" VerticalAlignment="Top" Width="283" Click="btExecutar_Click"/>
+
+    </Grid>
+</Window>
