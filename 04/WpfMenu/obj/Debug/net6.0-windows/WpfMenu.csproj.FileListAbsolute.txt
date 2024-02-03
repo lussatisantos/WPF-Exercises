@@ -1,0 +1,26 @@
+C:\Users\1\OneDrive\Documentos\GitHub\WPF Exercises\04\WpfMenu\bin\Debug\net6.0-windows\WpfMenu.exe
+C:\Users\1\OneDrive\Documentos\GitHub\WPF Exercises\04\WpfMenu\bin\Debug\net6.0-windows\WpfMenu.deps.json
+C:\Users\1\OneDrive\Documentos\GitHub\WPF Exercises\04\WpfMenu\bin\Debug\net6.0-windows\WpfMenu.runtimeconfig.json
+C:\Users\1\OneDrive\Documentos\GitHub\WPF Exercises\04\WpfMenu\bin\Debug\net6.0-windows\WpfMenu.dll
+C:\Users\1\OneDrive\Documentos\GitHub\WPF Exercises\04\WpfMenu\bin\Debug\net6.0-windows\WpfMenu.pdb
+C:\Users\1\OneDrive\Documentos\GitHub\WPF Exercises\04\WpfMenu\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\1\OneDrive\Documentos\GitHub\WPF Exercises\04\WpfMenu\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\1\OneDrive\Documentos\GitHub\WPF Exercises\04\WpfMenu\obj\Debug\net6.0-windows\WpfMenu_MarkupCompile.cache
+C:\Users\1\OneDrive\Documentos\GitHub\WPF Exercises\04\WpfMenu\obj\Debug\net6.0-windows\WpfMenu_MarkupCompile.lref
+C:\Users\1\OneDrive\Documentos\GitHub\WPF Exercises\04\WpfMenu\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\1\OneDrive\Documentos\GitHub\WPF Exercises\04\WpfMenu\obj\Debug\net6.0-windows\WpfMenu.g.resources
+C:\Users\1\OneDrive\Documentos\GitHub\WPF Exercises\04\WpfMenu\obj\Debug\net6.0-windows\WpfMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\OneDrive\Documentos\GitHub\WPF Exercises\04\WpfMenu\obj\Debug\net6.0-windows\WpfMenu.AssemblyInfoInputs.cache
+C:\Users\1\OneDrive\Documentos\GitHub\WPF Exercises\04\WpfMenu\obj\Debug\net6.0-windows\WpfMenu.AssemblyInfo.cs
+C:\Users\1\OneDrive\Documentos\GitHub\WPF Exercises\04\WpfMenu\obj\Debug\net6.0-windows\WpfMenu.csproj.CoreCompileInputs.cache
+C:\Users\1\OneDrive\Documentos\GitHub\WPF Exercises\04\WpfMenu\obj\Debug\net6.0-windows\WpfMenu.dll
+C:\Users\1\OneDrive\Documentos\GitHub\WPF Exercises\04\WpfMenu\obj\Debug\net6.0-windows\refint\WpfMenu.dll
+C:\Users\1\OneDrive\Documentos\GitHub\WPF Exercises\04\WpfMenu\obj\Debug\net6.0-windows\WpfMenu.pdb
+C:\Users\1\OneDrive\Documentos\GitHub\WPF Exercises\04\WpfMenu\obj\Debug\net6.0-windows\WpfMenu.genruntimeconfig.cache
+C:\Users\1\OneDrive\Documentos\GitHub\WPF Exercises\04\WpfMenu\obj\Debug\net6.0-windows\ref\WpfMenu.dll
+C:\Users\1\OneDrive\Documentos\GitHub\WPF Exercises\04\WpfMenu\obj\Debug\net6.0-windows\Tabuada.g.cs
+C:\Users\1\OneDrive\Documentos\GitHub\WPF Exercises\04\WpfMenu\obj\Debug\net6.0-windows\Tabuada.baml
+C:\Users\1\OneDrive\Documentos\GitHub\WPF Exercises\04\WpfMenu\obj\Debug\net6.0-windows\Factorial.g.cs
+C:\Users\1\OneDrive\Documentos\GitHub\WPF Exercises\04\WpfMenu\obj\Debug\net6.0-windows\Factorial.baml
+C:\Users\1\OneDrive\Documentos\GitHub\WPF Exercises\04\WpfMenu\obj\Debug\net6.0-windows\Calcula Idade.g.cs
+C:\Users\1\OneDrive\Documentos\GitHub\WPF Exercises\04\WpfMenu\obj\Debug\net6.0-windows\Calcula Idade.baml

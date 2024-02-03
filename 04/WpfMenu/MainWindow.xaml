@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfMenu.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfMenu"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="370" Width="400">
+    <Grid>
+        <Menu x:Name="MenuPrincipal" Height="69" VerticalAlignment="Top">
+            <MenuItem Header="Tabuada" Height="70" Width="67" Name="imTabuada" Click="imTabuada_Click"/>
+            <MenuItem Header="Calculadora" Height="70" Width="76" Name="imCalculadoraSimples"/>
+            <MenuItem Header="Numero Primo" Height="70" Width="91" Name="imNprimo"/>
+            <MenuItem Header="Factorial" Height="70" Width="60" Name="imFactorial" Click="imFactorial_Click"/>
+            <MenuItem Header="Calcula Idade" Height="70" Width="86" Name="imIdade" Click="imIdade_Click"/>
+        </Menu>
+
+    </Grid>
+</Window>
